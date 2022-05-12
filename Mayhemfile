@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-infgen
+target: infgen
+
+cmds:
+  - cmd: /repo/infgen @@
+    filepath: /test.zip
